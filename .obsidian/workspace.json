@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西游记-狮驼国/齐天大圣.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西游记-狮驼国/齐天大圣.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西游记-狮驼国/齐天大圣.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "西游记-狮驼国/齐天大圣.md"
+                "file": "README.md"
               }
             }
           }
@@ -224,17 +224,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "34d3d17cc64dd64b",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
+    "西游记-狮驼国/齐天大圣.md",
+    "西游记-狮驼国/唐僧.md",
+    "西游记-狮驼国/师徒四人.md",
+    "README.md",
     "卡通系列/招财猫.md",
     "卡通系列/未命名.md",
-    "西游记-狮驼国/师徒四人.md",
-    "西游记-狮驼国/唐僧.md",
     "迟重瑞唐僧.jpg",
     "服装人体比例图.jpg",
-    "README.md",
     "三国/夜读春秋.md",
-    "20200102142353_3435.jpg",
-    "设计比例/人体比例.md"
+    "20200102142353_3435.jpg"
   ]
 }
