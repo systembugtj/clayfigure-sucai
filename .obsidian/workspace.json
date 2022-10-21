@@ -97,6 +97,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "卡通系列/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8435298c62a518c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -224,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a1b6bb2c7c8dfbe5",
+  "active": "8435298c62a518c1",
   "lastOpenFiles": [
-    "西游记-狮驼国/齐天大圣.md",
-    "西游记-狮驼国/唐僧.md",
-    "西游记-狮驼国/师徒四人.md",
-    "README.md",
-    "卡通系列/招财猫.md",
-    "卡通系列/未命名.md",
-    "迟重瑞唐僧.jpg",
-    "服装人体比例图.jpg",
     "三国/夜读春秋.md",
-    "20200102142353_3435.jpg"
+    "images/O1CN01YtF4DP1ZvkZNq30wy_!!0-item_pic.jpg_540x540Q50s50.jpg",
+    "images/迟重瑞唐僧.jpg",
+    "images/金德仕素材 (1).gif",
+    "八仙/白描.md",
+    "卡通系列/未命名.md",
+    "images/download.jpeg",
+    "images/images.jpeg",
+    "images/kns-v28-135686_im1.jpg",
+    "西游记-狮驼国/师徒四人.md"
   ]
 }
