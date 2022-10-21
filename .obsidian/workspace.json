@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e908c759e614dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "西游记-狮驼国/唐僧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,10 +176,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "95025fe984088085",
+  "active": "7e908c759e614dd0",
   "lastOpenFiles": [
-    "迟重瑞唐僧.jpg",
+    "README.md",
     "西游记-狮驼国/唐僧.md",
+    "迟重瑞唐僧.jpg",
     "三国/夜读春秋.md",
     "20200102142353_3435.jpg",
     "服装人体比例图.jpg",
