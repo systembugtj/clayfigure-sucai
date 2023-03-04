@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西游记-狮驼国/唐僧.md",
+                "file": "泥人张/张明山.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac5fa52781241972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "泥人张/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西游记-狮驼国/唐僧.md",
+                "file": "三国/夜读春秋.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,10 +85,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡通系列/招财猫.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1448a19ba739dcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "website/shop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3012703d1cdc6026",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -180,7 +212,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/709ec32cly4ge2xuvtprpj20pi0j475b (1).jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +228,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/709ec32cly4ge2xuvtprpj20pi0j475b (1).jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +249,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "images/709ec32cly4ge2xuvtprpj20pi0j475b (1).jpg"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,20 +259,32 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "a1b6bb2c7c8dfbe5",
+  "active": "3012703d1cdc6026",
   "lastOpenFiles": [
-    "images/709ec32cly4ge2xuvy3tgj20rs13caee.jpg",
-    "卡通系列/功夫熊猫.md",
-    "images/20200102142353_3435.jpg",
+    "佛教造像/称谓.md",
+    "website/main.md",
+    "website/shop.md",
+    "README.md",
+    "website",
+    "卡通系列/招财猫.md",
+    "西游记-狮驼国/师徒四人.md",
     "三国/夜读春秋.md",
-    "卡通系列/米老鼠.md",
-    "面塑/陈明远作品集.md",
-    "images/640.webp",
-    "雕塑/古典雕塑赏析.md",
-    "images/download (1).png",
-    "卡通系列/招财猫.md"
+    "西游记-狮驼国/唐僧.md",
+    "泥人张/Untitled.md",
+    "泥人张/张明山.md",
+    "卡通系列/功夫熊猫.md",
+    "images/709ec32cly4ge2xuvy3tgj20rs13caee.jpg",
+    "images/20200102142353_3435.jpg",
+    "卡通系列/米老鼠.md"
   ]
 }
