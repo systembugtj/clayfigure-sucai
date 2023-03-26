@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ff12edb1e64d5f",
+        "id": "9e3fc53ad8448dac",
         "type": "tabs",
         "children": [
           {
-            "id": "17cccd93696e8e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "泥人张/张明山.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5fa52781241972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "泥人张/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e05dd80a717075d",
+            "id": "767776446a03b51f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,111 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "95025fe984088085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "西游记-狮驼国/唐僧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e908c759e614dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "西游记-狮驼国/唐僧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a791745cf8dfcb28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "西游记-狮驼国/师徒四人.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f93c5f19492d67af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1448a19ba739dcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "website/shop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3012703d1cdc6026",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e0d37c14d5ed37c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡通系列/招财猫.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34d3d17cc64dd64b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡通系列/功夫熊猫.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8435298c62a518c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/709ec32cly4ge2xuvtprpj20pi0j475b (1).jpg"
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 400.5
   },
   "right": {
     "id": "bcc8e90845e02e5c",
@@ -212,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "三国/夜读春秋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "三国/夜读春秋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "三国/夜读春秋.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,22 +145,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3012703d1cdc6026",
+  "active": "767776446a03b51f",
   "lastOpenFiles": [
-    "佛教造像/称谓.md",
     "website/main.md",
     "website/shop.md",
+    "八仙/鳌鱼 眼睛.md",
+    "八仙/逯彤 八仙过海.md",
+    "Pasted image 20230325171532.png",
+    "Pasted image 20230325171258.png",
+    "Pasted image 20230325171208.png",
+    "Pasted image 20230325171151.png",
+    "Pasted image 20230325171141.png",
+    "Pasted image 20230325171127.png",
+    "八仙/白描.md",
+    "西游记/狮驼国.md",
+    "泥人张/张明山.md",
+    "泥人张/油画参考.md",
+    "面塑/陈明远作品集.md",
+    "images/214b90ce296048c280d3e7455a2627cf 1.jpg",
+    "images/bd045feefb5667cc5feddbfe72ce8dd1_tplv-dy-resize-origshort-autoq-75_330 (1).jpeg",
+    "images.jpeg",
+    "v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg",
+    "西游记/![[v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg.md",
+    "西游记/唐僧.md",
+    "西游记/asdad.md",
+    "佛教造像/称谓.md",
+    "西游记/齐天大圣.md",
+    "西游记/师徒四人.md",
     "README.md",
     "website",
     "卡通系列/招财猫.md",
-    "西游记-狮驼国/师徒四人.md",
     "三国/夜读春秋.md",
-    "西游记-狮驼国/唐僧.md",
-    "泥人张/Untitled.md",
-    "泥人张/张明山.md",
     "卡通系列/功夫熊猫.md",
-    "images/709ec32cly4ge2xuvy3tgj20rs13caee.jpg",
-    "images/20200102142353_3435.jpg",
     "卡通系列/米老鼠.md"
   ]
 }
