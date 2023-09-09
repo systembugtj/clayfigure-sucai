@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西游记/狮驼国.md",
+                "file": "彩塑/西游记/狮驼国.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雕塑/吸血鬼.md",
+                "file": "彩塑/卡通系列/无脸男.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雕塑/吸血鬼.md",
+                "file": "彩塑/卡通系列/无脸男.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "雕塑/吸血鬼.md",
+                "file": "彩塑/卡通系列/无脸男.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "雕塑/吸血鬼.md"
+                "file": "彩塑/卡通系列/无脸男.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,41 +203,43 @@
   },
   "active": "d80313621799567f",
   "lastOpenFiles": [
-    "八仙/鳌鱼 眼睛.md",
-    "八仙/逯彤 八仙过海.md",
-    "八仙/白描.md",
-    "卡通系列/米老鼠.md",
-    "卡通系列/招财猫.md",
-    "卡通系列/功夫熊猫.md",
-    "日本/地藏菩萨 - jizo.md",
-    "泥人张/张明山.md",
-    "雕塑/吸血鬼.md",
-    "README.md",
-    "雕塑/古典雕塑赏析.md",
-    "设计比例/人体比例.md",
-    "西游记/师徒四人.md",
-    "西游记/狮驼国.md",
-    "西游记/唐僧.md",
-    "西游记/Untitled.md",
-    "images/F86vGY8yUyuyH1b9x4IKfMEt0cikQJGiJMCqQfas.jpeg",
-    "images/吸血鬼2.jpeg",
-    "images/吸血鬼.jpeg",
-    "images/24a8edf8ae254a98b242fab6bfdafacb_th.jpg",
-    "images/Pasted image 20230325172041.png",
-    "images/Pasted image 20230325171926.png",
-    "面塑/陈明远作品集.md",
+    "彩塑/西游记/师徒四人.md",
+    "images/1-21-600x400.jpg",
+    "彩塑/卡通系列/无脸男.md",
+    "images/5-2-600x400.jpg",
+    "images/4-4-600x400.jpg",
+    "images/3-5-600x400.jpg",
+    "images/2-11-600x400.jpg",
+    "彩塑/卡通系列/米老鼠.md",
+    "彩塑/卡通系列/招财猫.md",
+    "彩塑/卡通系列/功夫熊猫.md",
+    "彩塑/八仙/逯彤 八仙过海.md",
+    "彩塑/吸血鬼.md",
+    "彩塑/西游记/齐天大圣.md",
+    "彩塑/西游记/Untitled.md",
+    "彩塑/三国/夜读春秋.md",
     "佛教造像/称谓.md",
-    "三国/夜读春秋.md",
-    "images/0a3ef3b73f15d672f8f9706bec3bc404.jpg",
+    "彩塑",
+    "雕塑/Untitled",
+    "雕塑/古典雕塑赏析.md",
+    "面塑/陈明远作品集.md",
+    "images/吸血鬼2 1.jpeg",
+    "images/image2-582-750x422.jpg",
+    "images/20230413222811-65fa16af043b37c007852fbbe15aa14f-mobile.png",
+    "images/1681240357-3226706391-g_wn.jpg",
+    "彩塑/八仙/鳌鱼 眼睛.md",
+    "彩塑/八仙/白描.md",
+    "彩塑/日本/地藏菩萨 - jizo.md",
+    "泥人张/张明山.md",
+    "README.md",
+    "设计比例/人体比例.md",
+    "彩塑/西游记/狮驼国.md",
+    "彩塑/西游记/唐僧.md",
+    "images/F86vGY8yUyuyH1b9x4IKfMEt0cikQJGiJMCqQfas.jpeg",
     "website/main.md",
     "website/shop.md",
     "泥人张/油画参考.md",
-    "images/Pasted image 20230325171945.png",
-    "images/Pasted image 20230325171127.png",
-    "images/Pasted image 20230325171532.png",
     "西游记/![[v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg.md",
-    "西游记/asdad.md",
-    "西游记/齐天大圣.md",
     "website"
   ]
 }
