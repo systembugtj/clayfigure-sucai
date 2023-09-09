@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "9e3fc53ad8448dac",
+        "id": "8c6b131da33adf7f",
         "type": "tabs",
         "children": [
           {
-            "id": "767776446a03b51f",
+            "id": "a85adb9280075692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三国/夜读春秋.md",
+                "file": "西游记/狮驼国.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4f5fa81d91ba987",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "2ab51d7c4f0b109b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "website/shop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3d5c2ff37df1a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "设计比例/人体比例.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d80313621799567f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雕塑/吸血鬼.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -64,12 +111,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8d04251bf92ea81d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 350.5
   },
   "right": {
     "id": "bcc8e90845e02e5c",
@@ -85,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三国/夜读春秋.md",
+                "file": "雕塑/吸血鬼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三国/夜读春秋.md",
+                "file": "雕塑/吸血鬼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +175,12 @@
             }
           },
           {
-            "id": "08686d3e2b780203",
+            "id": "1334077e5b467fdd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "三国/夜读春秋.md"
+                "file": "雕塑/吸血鬼.md"
               }
             }
           }
@@ -145,38 +200,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "767776446a03b51f",
+  "active": "d80313621799567f",
   "lastOpenFiles": [
-    "website/main.md",
-    "website/shop.md",
     "八仙/鳌鱼 眼睛.md",
     "八仙/逯彤 八仙过海.md",
-    "Pasted image 20230325171532.png",
-    "Pasted image 20230325171258.png",
-    "Pasted image 20230325171208.png",
-    "Pasted image 20230325171151.png",
-    "Pasted image 20230325171141.png",
-    "Pasted image 20230325171127.png",
     "八仙/白描.md",
-    "西游记/狮驼国.md",
-    "泥人张/张明山.md",
-    "泥人张/油画参考.md",
-    "面塑/陈明远作品集.md",
-    "images/214b90ce296048c280d3e7455a2627cf 1.jpg",
-    "images/bd045feefb5667cc5feddbfe72ce8dd1_tplv-dy-resize-origshort-autoq-75_330 (1).jpeg",
-    "images.jpeg",
-    "v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg",
-    "西游记/![[v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg.md",
-    "西游记/唐僧.md",
-    "西游记/asdad.md",
-    "佛教造像/称谓.md",
-    "西游记/齐天大圣.md",
-    "西游记/师徒四人.md",
-    "README.md",
-    "website",
+    "卡通系列/米老鼠.md",
     "卡通系列/招财猫.md",
-    "三国/夜读春秋.md",
     "卡通系列/功夫熊猫.md",
-    "卡通系列/米老鼠.md"
+    "日本/地藏菩萨 - jizo.md",
+    "泥人张/张明山.md",
+    "雕塑/吸血鬼.md",
+    "README.md",
+    "雕塑/古典雕塑赏析.md",
+    "设计比例/人体比例.md",
+    "西游记/师徒四人.md",
+    "西游记/狮驼国.md",
+    "西游记/唐僧.md",
+    "西游记/Untitled.md",
+    "images/F86vGY8yUyuyH1b9x4IKfMEt0cikQJGiJMCqQfas.jpeg",
+    "images/吸血鬼2.jpeg",
+    "images/吸血鬼.jpeg",
+    "images/24a8edf8ae254a98b242fab6bfdafacb_th.jpg",
+    "images/Pasted image 20230325172041.png",
+    "images/Pasted image 20230325171926.png",
+    "面塑/陈明远作品集.md",
+    "佛教造像/称谓.md",
+    "三国/夜读春秋.md",
+    "images/0a3ef3b73f15d672f8f9706bec3bc404.jpg",
+    "website/main.md",
+    "website/shop.md",
+    "泥人张/油画参考.md",
+    "images/Pasted image 20230325171945.png",
+    "images/Pasted image 20230325171127.png",
+    "images/Pasted image 20230325171532.png",
+    "西游记/![[v2-6bab6a27d6cc54d86fa813783abffdde_720w.jpg.md",
+    "西游记/asdad.md",
+    "西游记/齐天大圣.md",
+    "website"
   ]
 }
