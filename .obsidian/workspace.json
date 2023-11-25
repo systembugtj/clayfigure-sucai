@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d49504cca58fd9",
+        "id": "42cc816a659976b4",
         "type": "tabs",
         "children": [
           {
-            "id": "c3116074b3153ee5",
+            "id": "a8f29970e10ce749",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": "设计比例/人体比例.md",
-                "staged": false
+                "file": "images/5a6c14e2N42818208.jpg"
               }
             }
           }
@@ -92,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "images/5a6c14e2N42818208.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "images/5a6c14e2N42818208.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "images/5a6c14e2N42818208.jpg"
+              }
             }
           },
           {
@@ -167,21 +170,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3116074b3153ee5",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
+    "彩塑/神话传说/财神.md",
+    "images/5b437d38Ne8c0b7c7.jpg",
+    "images/5b437d38N9f270776.jpg",
+    "images/5b437d38N1b070257.jpg",
+    "images/5b437d3bN79e28cc4.jpg",
+    "images/5b53bb5dN8190fce12.jpg",
+    "images/5a6c1527N6f1352fd2.jpg",
+    "images/5a6c1501N33a1819c.jpg",
+    "images/5a6c1501N18a81bf2.jpg",
+    "images/5a6c1500N347b0256.jpg",
+    "images/5a6c14feN2e7cbede.jpg",
+    "彩塑/神话传说/钟馗.md",
+    "彩塑/神话传说/Untitled",
+    "彩塑/神话传说",
+    "彩塑/三国/夜读春秋.md",
+    "彩塑/卡通系列/米老鼠.md",
     "设计比例/人体比例.md",
     "佛教造像/释迦摩尼.md",
     "彩塑/日本/空海.md",
-    "images/8c1001e93901213f5f4be87257e736d12f2e9520.jpg",
-    "images/s7o000641o87679q7os.jpg",
-    "images/s7n0003o4907n37oq9q.jpg",
-    "images/p130001s7n701s45q8n.jpg",
-    "images/p130001s7n701s45q8n copy.jpg",
-    "images/oqn0006n188920qs23n.jpg",
-    "images/1527830546155129qp16s72.jpg",
-    "images/152783059261997qq8400p8.jpg",
-    "images/152783052497440s5r5qs22.jpg",
-    "images/3046716d573830616a73.jpg",
     "佛教造像/称谓.md",
     "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/八仙/鳌鱼 眼睛.md",
@@ -203,13 +212,9 @@
     "website/shop.md",
     "website/main.md",
     "images/README.md",
-    "彩塑/三国/夜读春秋.md",
-    "彩塑/卡通系列/米老鼠.md",
     "彩塑/卡通系列/招财猫.md",
-    "彩塑/西游记/Untitled.md",
     "彩塑",
     "雕塑/Untitled",
-    "雕塑/古典雕塑赏析.md",
     "website"
   ]
 }
