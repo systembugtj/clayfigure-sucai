@@ -11,9 +11,11 @@
             "id": "a8f29970e10ce749",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/5a6c14e2N42818208.jpg"
+                "file": "彩塑/万圣节/无脸男.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/5a6c14e2N42818208.jpg",
+                "file": "彩塑/万圣节/无脸男.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/5a6c14e2N42818208.jpg",
+                "file": "彩塑/万圣节/无脸男.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/5a6c14e2N42818208.jpg"
+                "file": "彩塑/万圣节/无脸男.md"
               }
             }
           },
@@ -172,6 +174,10 @@
   },
   "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
+    "彩塑/万圣节/钟馗.md",
+    "彩塑/万圣节/吸血鬼.md",
+    "images/5a6c14e2N42818208.jpg",
+    "彩塑/万圣节",
     "彩塑/神话传说/财神.md",
     "images/5b437d38Ne8c0b7c7.jpg",
     "images/5b437d38N9f270776.jpg",
@@ -182,8 +188,6 @@
     "images/5a6c1501N33a1819c.jpg",
     "images/5a6c1501N18a81bf2.jpg",
     "images/5a6c1500N347b0256.jpg",
-    "images/5a6c14feN2e7cbede.jpg",
-    "彩塑/神话传说/钟馗.md",
     "彩塑/神话传说/Untitled",
     "彩塑/神话传说",
     "彩塑/三国/夜读春秋.md",
@@ -200,10 +204,9 @@
     "images/Untitled 1.canvas",
     "images/Untitled.canvas",
     "彩塑/兔爷/老北京.md",
-    "彩塑/卡通系列/无脸男.md",
+    "彩塑/万圣节/无脸男.md",
     "彩塑/兔爷",
     "面塑/陈明远作品集.md",
-    "彩塑/吸血鬼.md",
     "彩塑/西游记/唐僧.md",
     "彩塑/西游记/师徒四人.md",
     "彩塑/西游记/狮驼国.md",
