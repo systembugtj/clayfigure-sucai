@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ec06a501fb56b0",
+        "id": "f5d49504cca58fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "9cda46cb8c44e56a",
+            "id": "c3116074b3153ee5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "b70b7c95cedf26a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cda46cb8c44e56a",
+  "active": "c3116074b3153ee5",
   "lastOpenFiles": [
     "Untitled 1.canvas",
     "Untitled.canvas",
