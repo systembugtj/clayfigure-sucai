@@ -11,9 +11,11 @@
             "id": "c3116074b3153ee5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/1057876.jpeg"
+                "file": "佛教造像/释迦摩尼.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/1057876.jpeg",
+                "file": "佛教造像/释迦摩尼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/1057876.jpeg",
+                "file": "佛教造像/释迦摩尼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/1057876.jpeg"
+                "file": "佛教造像/释迦摩尼.md"
               }
             }
           },
@@ -170,14 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b6bb2c7c8dfbe5",
+  "active": "c3116074b3153ee5",
   "lastOpenFiles": [
     "彩塑/日本/空海.md",
-    "images/thumbnail_1.jpg",
-    "images/1057903.jpeg",
-    "images/1057888.jpeg",
-    "images/1057876.jpeg",
-    "images/1057876 (1).jpeg",
+    "images/8c1001e93901213f5f4be87257e736d12f2e9520.jpg",
+    "佛教造像/释迦摩尼.md",
+    "images/s7o000641o87679q7os.jpg",
+    "images/s7n0003o4907n37oq9q.jpg",
+    "images/p130001s7n701s45q8n.jpg",
+    "images/p130001s7n701s45q8n copy.jpg",
+    "images/oqn0006n188920qs23n.jpg",
+    "images/1527830546155129qp16s72.jpg",
+    "images/152783059261997qq8400p8.jpg",
+    "images/152783052497440s5r5qs22.jpg",
+    "images/3046716d573830616a73.jpg",
+    "佛教造像/称谓.md",
     "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/八仙/鳌鱼 眼睛.md",
     "彩塑/日本/Untitled",
@@ -186,11 +195,6 @@
     "images/Untitled 1.canvas",
     "images/Untitled.canvas",
     "彩塑/兔爷/老北京.md",
-    "images/5aab74faN4a9674ef.png",
-    "images/hqdefault.jpg",
-    "images/f0a8be174fd0d7162.jpg",
-    "images/5ad569dbNe4277260.jpg",
-    "images/5ad569dbNe69bbd6d.jpg",
     "彩塑/卡通系列/无脸男.md",
     "彩塑/兔爷",
     "面塑/陈明远作品集.md",
@@ -200,7 +204,6 @@
     "彩塑/西游记/狮驼国.md",
     "彩塑/西游记/齐天大圣.md",
     "彩塑/卡通系列/功夫熊猫.md",
-    "佛教造像/称谓.md",
     "website/shop.md",
     "website/main.md",
     "images/README.md",
@@ -212,7 +215,6 @@
     "彩塑",
     "雕塑/Untitled",
     "雕塑/古典雕塑赏析.md",
-    "泥人张/张明山.md",
     "website"
   ]
 }
