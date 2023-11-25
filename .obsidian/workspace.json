@@ -11,8 +11,10 @@
             "id": "c3116074b3153ee5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "images/1057876.jpeg"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "images/1057876.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "images/1057876.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "images/1057876.jpeg"
+              }
             }
           },
           {
@@ -164,21 +170,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3116074b3153ee5",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "彩塑/日本/空海.md",
+    "images/thumbnail_1.jpg",
+    "images/1057903.jpeg",
+    "images/1057888.jpeg",
+    "images/1057876.jpeg",
+    "images/1057876 (1).jpeg",
+    "彩塑/日本/地藏菩萨 - jizo.md",
+    "彩塑/八仙/鳌鱼 眼睛.md",
+    "彩塑/日本/Untitled",
+    "彩塑/八仙/逯彤 八仙过海.md",
+    "彩塑/八仙/白描.md",
+    "images/Untitled 1.canvas",
+    "images/Untitled.canvas",
     "彩塑/兔爷/老北京.md",
     "images/5aab74faN4a9674ef.png",
     "images/hqdefault.jpg",
     "images/f0a8be174fd0d7162.jpg",
     "images/5ad569dbNe4277260.jpg",
     "images/5ad569dbNe69bbd6d.jpg",
-    "images/5ad569dbNb1b96648.jpg",
-    "images/5ad569dbNb1b96648 (1).jpg",
-    "images/5ad569dbN4d9e582b.jpg",
-    "images/5ad569dbN4d9e582b (1).jpg",
-    "images/5ad569daN49d62801.jpg",
     "彩塑/卡通系列/无脸男.md",
     "彩塑/兔爷",
     "面塑/陈明远作品集.md",
@@ -187,15 +199,11 @@
     "彩塑/西游记/师徒四人.md",
     "彩塑/西游记/狮驼国.md",
     "彩塑/西游记/齐天大圣.md",
-    "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/卡通系列/功夫熊猫.md",
-    "彩塑/八仙/鳌鱼 眼睛.md",
-    "彩塑/八仙/白描.md",
-    "彩塑/八仙/逯彤 八仙过海.md",
     "佛教造像/称谓.md",
     "website/shop.md",
     "website/main.md",
-    "README.md",
+    "images/README.md",
     "设计比例/人体比例.md",
     "彩塑/三国/夜读春秋.md",
     "彩塑/卡通系列/米老鼠.md",
@@ -205,7 +213,6 @@
     "雕塑/Untitled",
     "雕塑/古典雕塑赏析.md",
     "泥人张/张明山.md",
-    "泥人张/油画参考.md",
     "website"
   ]
 }
