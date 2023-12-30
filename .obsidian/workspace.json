@@ -23,9 +23,9 @@
             "id": "8246010d2cfe0aa0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "images/Pasted image 20231230140621.png"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/八仙/鳌鱼 眼睛.md",
+                "file": "images/Pasted image 20231230140621.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/八仙/鳌鱼 眼睛.md",
+                "file": "images/Pasted image 20231230140621.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/八仙/鳌鱼 眼睛.md"
+                "file": "images/Pasted image 20231230140621.png"
               }
             }
           },
@@ -185,32 +185,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8246010d2cfe0aa0",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
+    "彩塑/西游记/师徒四人.md",
+    "images/Screenshot 2023-12-30 at 2.21.28 PM.png",
+    "彩塑/万圣节/钟馗.md",
+    "images/Pasted image 20231230141927.png",
+    "雕塑/古典雕塑赏析.md",
+    "彩塑/西游记/狮驼国.md",
+    "images/Pasted image 20231230141733.png",
+    "images/Pasted image 20231230141711.png",
+    "images/Pasted image 20231230141601.png",
+    "images/Pasted image 20231230141545.png",
+    "images/Pasted image 20231230141521.png",
+    "images/Pasted image 20231230140641.png",
+    "images/Pasted image 20231230140621.png",
+    "彩塑/兔爷/老北京.md",
     "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/日本/空海.md",
     "彩塑/西游记/齐天大圣.md",
-    "彩塑/西游记/狮驼国.md",
     "images/Pasted image 20231217224416.png",
-    "images/Pasted image 20231217223902.png",
-    "images/Pasted image 20231217224140.png",
-    "images/Pasted image 20231217223959.png",
-    "images/Pasted image 20231217223912.png",
-    "images/Pasted image 20231217224349.png",
-    "images/Pasted image 20231217224251.png",
-    "images/Pasted image 20231217224244.png",
-    "images/Pasted image 20231217224234.png",
-    "images/Pasted image 20231217224157.png",
     "彩塑/八仙/逯彤 八仙过海.md",
     "彩塑/卡通系列/米老鼠.md",
-    "彩塑/西游记/师徒四人.md",
     "彩塑/八仙/白描.md",
     "彩塑/八仙/鳌鱼 眼睛.md",
-    "彩塑/兔爷/老北京.md",
     "彩塑/三国/夜读春秋.md",
     "彩塑/万圣节/无脸男.md",
     "彩塑/万圣节/吸血鬼.md",
-    "彩塑/万圣节/钟馗.md",
     "佛教造像/称谓.md",
     "彩塑/神话传说/财神.md",
     "彩塑/万圣节",
@@ -228,7 +229,6 @@
     "website/shop.md",
     "website/main.md",
     "images/README.md",
-    "彩塑/卡通系列/招财猫.md",
     "彩塑",
     "雕塑/Untitled",
     "website"
