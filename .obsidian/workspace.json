@@ -11,8 +11,12 @@
             "id": "efacc1aaedeb5fd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md"
+              }
             }
           },
           {
@@ -168,10 +176,38 @@
   },
   "active": "efacc1aaedeb5fd3",
   "lastOpenFiles": [
+    "gz (40).jpeg",
+    "gz (39).jpg",
+    "gz (38).jpg",
+    "gz (37).jpg",
+    "gz (36).jpg",
+    "gz (35).jpg",
+    "gz (34).jpg",
+    "gz (33).jpg",
+    "gz (32).jpg",
+    "gz (31).jpg",
+    "gz (30).jpg",
+    "彩塑/发式/唐.md",
+    "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "彩塑/发式/宋.md",
+    "彩塑/发式/古典.md",
+    "彩塑/发式/Untitled",
+    "设计/参考.md",
+    "设计/人体比例.md",
+    "彩塑/发式/现代.md",
+    "彩塑/盔甲/唐.md",
+    "彩塑/盔甲/宋.md",
+    "佛教造像/沙弥小和尚.md",
+    "彩塑/万圣节/Luigi's Mension.md",
+    "佛教造像/释迦摩尼.md",
+    "佛教造像/称谓.md",
+    "面塑/陈明远作品集.md",
+    "雕塑/古典雕塑赏析.md",
+    "泥人张/张明山.md",
+    "泥人张/油画参考.md",
     "2024-01-14.md",
     "Untitled.canvas",
     "彩塑/动漫/龙猫.md",
-    "1fcU.gif",
     "20210918_212007924_iOS 1.heic",
     "20210918_212007924_iOS.heic",
     "20210918_212014802_iOS 1.heic",
@@ -181,40 +217,12 @@
     "20210918_212027712_iOS 1.heic",
     "20210918_212027712_iOS.heic",
     "20210918_212030931_iOS 1.heic",
-    "20210918_212030931_iOS.heic",
-    "Jan-Willem-Totoro-Ramen_788x.jpg",
-    "totoru_statue.jpg",
-    "彩塑/万圣节/Luigi's Mension.md",
-    "3449749-luigis-mansion-3ds-review-thumb-no-logo.jpg",
-    "luigi's-mansion-hd-wallpapers-33320-4971607.jpg",
-    "luigis-mansion-3-release-date-trailer-news.jpg",
-    "maxresdefault.0.jpg",
-    "images/2eb42fa39bfcaaf7.jpg",
     "彩塑/西游记/玄奘.md",
     "彩塑/三国/泥人张.md",
     "彩塑/三国/关羽.md",
-    "images/20201003_170140410_iOS.jpg",
-    "images/20201023_083451160_iOS.jpg",
-    "彩塑/发式/现代.md",
     "彩塑/盔甲/金.md",
-    "彩塑/盔甲/宋.md",
     "彩塑/西游记/狮驼国.md",
     "彩塑/盔甲/中式现代.md",
-    "彩塑/盔甲/明.md",
-    "彩塑/盔甲/细节.md",
-    "彩塑/八仙/鳌鱼 眼睛.md",
-    "彩塑/盔甲/汉.md",
-    "彩塑/盔甲/唐.md",
-    "images/枯 - Withered.md",
-    "彩塑/龙.md",
-    "conflict-files-obsidian-git.md",
-    "佛教造像/释迦摩尼.md",
-    "佛教造像/称谓.md",
-    "彩塑/西游记/齐天大圣.md",
-    "彩塑/魔家四将/增长天王 魔礼青.md",
-    "彩塑/西游记/师徒四人.md",
-    "彩塑/万圣节/钟馗.md",
-    "雕塑/古典雕塑赏析.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
