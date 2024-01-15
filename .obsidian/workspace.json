@@ -11,9 +11,11 @@
             "id": "c1083d6397eb85bb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/totoru_statue.jpg"
+                "file": "服饰/中式古典苏绣矢量图案.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/totoru_statue.jpg",
+                "file": "服饰/中式古典苏绣矢量图案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/totoru_statue.jpg",
+                "file": "服饰/中式古典苏绣矢量图案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/totoru_statue.jpg"
+                "file": "服饰/中式古典苏绣矢量图案.md"
               }
             }
           },
@@ -185,29 +187,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b6bb2c7c8dfbe5",
+  "active": "c1083d6397eb85bb",
   "lastOpenFiles": [
-    "images/1fcU.gif",
+    "59蜡嘴牡丹.png",
+    "58鹰枫叶.png",
+    "57松鹰.png",
+    "56鹦鹉碧桃.png",
+    "55鹦鹉梅花.png",
+    "54鸳鸯荷花.png",
+    "53鸳鸯芙蓉.png",
+    "52鸳鸯荷花.png",
+    "51鸳鸯紫藤.png",
+    "50鸳鸯牡丹.png",
+    "49鸳鸯月季.png",
+    "服饰/中式古典苏绣矢量图案.md",
+    "发式/手绘古代女子发髻发型头饰发式大全.md",
     "Untitled.canvas",
     "彩塑/中式古典苏绣矢量图案(c627).md",
     "服饰",
-    "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
-    "images/gz (40).jpeg",
-    "images/gz (39).jpg",
-    "images/gz (38).jpg",
-    "images/gz (37).jpg",
-    "images/gz (36).jpg",
-    "images/gz (35).jpg",
-    "images/gz (34).jpg",
-    "images/gz (33).jpg",
-    "images/gz (32).jpg",
-    "彩塑/发式/唐.md",
-    "彩塑/发式/宋.md",
-    "彩塑/发式/古典.md",
+    "发式/唐.md",
+    "发式/宋.md",
+    "发式/古典.md",
     "彩塑/发式/Untitled",
     "设计/参考.md",
     "设计/人体比例.md",
-    "彩塑/发式/现代.md",
+    "发式/现代.md",
     "彩塑/盔甲/唐.md",
     "彩塑/盔甲/宋.md",
     "佛教造像/沙弥小和尚.md",
@@ -232,7 +236,6 @@
     "彩塑/三国/泥人张.md",
     "彩塑/三国/关羽.md",
     "彩塑/盔甲/金.md",
-    "彩塑/西游记/狮驼国.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
