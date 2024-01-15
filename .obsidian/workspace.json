@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "064faedeeafa9f94",
+        "id": "81e59e2b5384ddda",
         "type": "tabs",
         "children": [
           {
-            "id": "efacc1aaedeb5fd3",
+            "id": "c1083d6397eb85bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
-                "mode": "source",
-                "source": false
+                "file": "images/totoru_statue.jpg"
               }
             }
           }
@@ -32,6 +30,18 @@
         "id": "cbf16e597ea046d6",
         "type": "tabs",
         "children": [
+          {
+            "id": "efacc1aaedeb5fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "彩塑/中式古典苏绣矢量图案(c627).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "a1b6bb2c7c8dfbe5",
             "type": "leaf",
@@ -73,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
+                "file": "images/totoru_statue.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
+                "file": "images/totoru_statue.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md"
+                "file": "images/totoru_statue.jpg"
               }
             }
           },
@@ -174,21 +185,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efacc1aaedeb5fd3",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
-    "gz (40).jpeg",
-    "gz (39).jpg",
-    "gz (38).jpg",
-    "gz (37).jpg",
-    "gz (36).jpg",
-    "gz (35).jpg",
-    "gz (34).jpg",
-    "gz (33).jpg",
-    "gz (32).jpg",
-    "gz (31).jpg",
-    "gz (30).jpg",
-    "彩塑/发式/唐.md",
+    "images/1fcU.gif",
+    "Untitled.canvas",
+    "彩塑/中式古典苏绣矢量图案(c627).md",
+    "服饰",
     "彩塑/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "images/gz (40).jpeg",
+    "images/gz (39).jpg",
+    "images/gz (38).jpg",
+    "images/gz (37).jpg",
+    "images/gz (36).jpg",
+    "images/gz (35).jpg",
+    "images/gz (34).jpg",
+    "images/gz (33).jpg",
+    "images/gz (32).jpg",
+    "彩塑/发式/唐.md",
     "彩塑/发式/宋.md",
     "彩塑/发式/古典.md",
     "彩塑/发式/Untitled",
@@ -205,8 +218,7 @@
     "雕塑/古典雕塑赏析.md",
     "泥人张/张明山.md",
     "泥人张/油画参考.md",
-    "2024-01-14.md",
-    "Untitled.canvas",
+    "images/2024-01-14.md",
     "彩塑/动漫/龙猫.md",
     "20210918_212007924_iOS 1.heic",
     "20210918_212007924_iOS.heic",
@@ -216,13 +228,11 @@
     "20210918_212021624_iOS.heic",
     "20210918_212027712_iOS 1.heic",
     "20210918_212027712_iOS.heic",
-    "20210918_212030931_iOS 1.heic",
     "彩塑/西游记/玄奘.md",
     "彩塑/三国/泥人张.md",
     "彩塑/三国/关羽.md",
     "彩塑/盔甲/金.md",
     "彩塑/西游记/狮驼国.md",
-    "彩塑/盔甲/中式现代.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
