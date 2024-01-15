@@ -11,9 +11,11 @@
             "id": "6d7a2bc9a55b982c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/2eb42fa39bfcaaf7.jpg"
+                "file": "彩塑/动漫/龙猫.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/2eb42fa39bfcaaf7.jpg",
+                "file": "彩塑/动漫/龙猫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/2eb42fa39bfcaaf7.jpg",
+                "file": "彩塑/动漫/龙猫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/2eb42fa39bfcaaf7.jpg"
+                "file": "彩塑/动漫/龙猫.md"
               }
             }
           },
@@ -172,23 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1b6bb2c7c8dfbe5",
+  "active": "6d7a2bc9a55b982c",
   "lastOpenFiles": [
+    "1fcU.gif",
+    "20210918_212007924_iOS 1.heic",
+    "20210918_212007924_iOS.heic",
+    "20210918_212014802_iOS 1.heic",
+    "20210918_212014802_iOS.heic",
+    "20210918_212021624_iOS 1.heic",
+    "20210918_212021624_iOS.heic",
+    "20210918_212027712_iOS 1.heic",
+    "20210918_212027712_iOS.heic",
+    "20210918_212030931_iOS 1.heic",
+    "20210918_212030931_iOS.heic",
+    "Jan-Willem-Totoro-Ramen_788x.jpg",
+    "totoru_statue.jpg",
+    "彩塑/万圣节/Luigi's Mension.md",
+    "彩塑/动漫/龙猫.md",
+    "3449749-luigis-mansion-3ds-review-thumb-no-logo.jpg",
+    "luigi's-mansion-hd-wallpapers-33320-4971607.jpg",
+    "luigis-mansion-3-release-date-trailer-news.jpg",
+    "maxresdefault.0.jpg",
+    "images/2eb42fa39bfcaaf7.jpg",
     "彩塑/西游记/玄奘.md",
     "彩塑/三国/泥人张.md",
     "彩塑/三国/关羽.md",
     "images/20201003_170140410_iOS.jpg",
     "images/20201023_083451160_iOS.jpg",
     "images/20201025_153618989_iOS.jpg",
-    "images/20201025_153630501_iOS.jpg",
-    "images/20201025_154228199_iOS.jpg",
-    "images/20201025_154314690_iOS.jpg",
-    "images/20201025_160207980_iOS.jpg",
-    "images/20201025_160212758_iOS.jpg",
-    "images/20201025_160216297_iOS.jpg",
-    "images/20201025_160333260_iOS.jpg",
     "彩塑/发式/现代.md",
-    "彩塑/发式",
     "彩塑/盔甲/金.md",
     "彩塑/盔甲/宋.md",
     "彩塑/西游记/狮驼国.md",
@@ -201,26 +215,14 @@
     "images/枯 - Withered.md",
     "彩塑/龙.md",
     "conflict-files-obsidian-git.md",
-    "彩塑/盔甲",
     "佛教造像/释迦摩尼.md",
     "佛教造像/称谓.md",
     "彩塑/西游记/齐天大圣.md",
-    "20230728_034540967_iOS.heic",
     "彩塑/魔家四将/增长天王 魔礼青.md",
-    "彩塑/魔家四将",
     "彩塑/西游记/师徒四人.md",
     "彩塑/万圣节/钟馗.md",
     "雕塑/古典雕塑赏析.md",
-    "彩塑/兔爷/老北京.md",
-    "彩塑/日本/地藏菩萨 - jizo.md",
-    "彩塑/日本/空海.md",
-    "彩塑/万圣节",
-    "彩塑/神话传说/Untitled",
-    "彩塑/神话传说",
-    "彩塑/日本/Untitled",
     "images/Untitled 1.canvas",
-    "images/Untitled.canvas",
-    "彩塑/兔爷",
-    "彩塑"
+    "images/Untitled.canvas"
   ]
 }
