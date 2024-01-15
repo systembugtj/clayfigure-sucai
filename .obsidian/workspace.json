@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42cc816a659976b4",
+        "id": "de477425d36001f2",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f29970e10ce749",
+            "id": "670b8460e4c2c442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "彩塑/八仙/鳌鱼 眼睛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8246010d2cfe0aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "彩塑/西游记/狮驼国.md",
+                "file": "彩塑/盔甲/宋.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/西游记/狮驼国.md",
+                "file": "彩塑/盔甲/宋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/西游记/狮驼国.md",
+                "file": "彩塑/盔甲/宋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/西游记/狮驼国.md"
+                "file": "彩塑/盔甲/宋.md"
               }
             }
           },
@@ -187,36 +174,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8246010d2cfe0aa0",
+  "active": "670b8460e4c2c442",
   "lastOpenFiles": [
-    "佛教造像/释迦摩尼.md",
-    "佛教造像/称谓.md",
-    "images/Pasted image 20240107142841.png",
+    "Pasted image 20240114173032.png",
+    "彩塑/盔甲/唐.md",
+    "Pasted image 20240114111543.png",
+    "Pasted image 20240114111523.png",
+    "Pasted image 20240114111509.png",
+    "Pasted image 20240114111443.png",
+    "Pasted image 20240114111416.png",
+    "Pasted image 20240114111348.png",
+    "Pasted image 20240114111336.png",
+    "彩塑/盔甲/汉.md",
+    "Pasted image 20240114111238.png",
+    "Pasted image 20240114111218.png",
+    "彩塑/盔甲/宋.md",
+    "Pasted image 20240114111035.png",
+    "彩塑/盔甲/明.md",
+    "彩塑/盔甲",
     "彩塑/西游记/狮驼国.md",
-    "images/Pasted image 20240107143229.png",
-    "images/Pasted image 20240107143136.png",
-    "images/Pasted image 20240107143118.png",
-    "images/Pasted image 20240107143102.png",
-    "images/Pasted image 20240107143018.png",
-    "images/Pasted image 20240107143006.png",
-    "images/Pasted image 20240107142951.png",
-    "images/Pasted image 20240107142913.png",
-    "彩塑/西游记/齐天大圣.md",
-    "conflict-files-obsidian-git.md",
-    "images/Pasted image 20231230222726.png",
-    "20230728_034540967_iOS.heic",
     "彩塑/魔家四将/增长天王 魔礼青.md",
     "彩塑/魔家四将",
+    "佛教造像/释迦摩尼.md",
+    "20230728_034540967_iOS.heic",
+    "雕塑/古典雕塑赏析.md",
+    "佛教造像/称谓.md",
+    "彩塑/八仙/鳌鱼 眼睛.md",
     "彩塑/西游记/师徒四人.md",
     "彩塑/万圣节/钟馗.md",
-    "雕塑/古典雕塑赏析.md",
     "彩塑/兔爷/老北京.md",
     "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/日本/空海.md",
+    "彩塑/西游记/齐天大圣.md",
     "彩塑/八仙/逯彤 八仙过海.md",
     "彩塑/卡通系列/米老鼠.md",
     "彩塑/八仙/白描.md",
-    "彩塑/八仙/鳌鱼 眼睛.md",
     "彩塑/三国/夜读春秋.md",
     "彩塑/万圣节/无脸男.md",
     "彩塑/万圣节/吸血鬼.md",
@@ -230,11 +222,7 @@
     "images/Untitled.canvas",
     "彩塑/兔爷",
     "面塑/陈明远作品集.md",
-    "彩塑/西游记/唐僧.md",
-    "彩塑/卡通系列/功夫熊猫.md",
-    "website/shop.md",
     "彩塑",
-    "雕塑/Untitled",
-    "website"
+    "雕塑/Untitled"
   ]
 }
