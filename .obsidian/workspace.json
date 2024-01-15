@@ -23,10 +23,9 @@
             "id": "8246010d2cfe0aa0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Pasted image 20240107143518.png"
               }
             }
           }
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20240107143518.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasted image 20240107143518.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20240107143518.png"
+              }
             }
           },
           {
@@ -182,27 +185,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8246010d2cfe0aa0",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
-    "彩塑/八仙/鳌鱼 眼睛.md",
-    "彩塑/龙.md",
-    "conflict-files-obsidian-git.md",
-    "彩塑/盔甲/汉.md",
+    "Pasted image 20240107144116.png",
+    "彩塑/西游记/狮驼国.md",
+    "Pasted image 20240114183835.png",
     "彩塑/盔甲/明.md",
+    "彩塑/盔甲/汉.md",
     "彩塑/盔甲/宋.md",
     "彩塑/盔甲/唐.md",
+    "彩塑/盔甲/细节.md",
+    "Pasted image 20240114183740.png",
+    "Pasted image 20240114183713.png",
+    "Pasted image 20240114183706.png",
+    "Pasted image 20240114183648.png",
+    "images/枯 - Withered.md",
+    "Pasted image 20240114183514.png",
+    "Pasted image 20240114183507.png",
+    "Pasted image 20240114183457.png",
+    "Pasted image 20240114183449.png",
+    "Pasted image 20240114183435.png",
+    "彩塑/龙.md",
+    "彩塑/八仙/鳌鱼 眼睛.md",
+    "conflict-files-obsidian-git.md",
     "彩塑/盔甲",
-    "Pasted image 20240114173032.png",
-    "Pasted image 20240114111543.png",
-    "Pasted image 20240114111523.png",
-    "Pasted image 20240114111509.png",
-    "Pasted image 20240114111443.png",
-    "Pasted image 20240114111416.png",
-    "Pasted image 20240114111348.png",
-    "Pasted image 20240114111336.png",
-    "Pasted image 20240114111238.png",
-    "Pasted image 20240114111218.png",
-    "彩塑/西游记/狮驼国.md",
     "佛教造像/释迦摩尼.md",
     "佛教造像/称谓.md",
     "彩塑/西游记/齐天大圣.md",
@@ -220,12 +226,9 @@
     "彩塑/八仙/白描.md",
     "彩塑/三国/夜读春秋.md",
     "彩塑/万圣节/无脸男.md",
-    "彩塑/万圣节/吸血鬼.md",
-    "彩塑/神话传说/财神.md",
     "彩塑/万圣节",
     "彩塑/神话传说/Untitled",
     "彩塑/神话传说",
-    "设计比例/人体比例.md",
     "彩塑/日本/Untitled",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas",
