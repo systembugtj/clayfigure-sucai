@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42cc816a659976b4",
+        "id": "d738ea7a25d4b720",
         "type": "tabs",
         "children": [
           {
-            "id": "a8f29970e10ce749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "彩塑/八仙/鳌鱼 眼睛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8246010d2cfe0aa0",
+            "id": "6d7a2bc9a55b982c",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240107143518.png"
+                "file": "images/2eb42fa39bfcaaf7.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240107143518.png",
+                "file": "images/2eb42fa39bfcaaf7.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240107143518.png",
+                "file": "images/2eb42fa39bfcaaf7.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240107143518.png"
+                "file": "images/2eb42fa39bfcaaf7.jpg"
               }
             }
           },
@@ -187,26 +174,32 @@
   },
   "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
-    "Pasted image 20240107144116.png",
-    "彩塑/西游记/狮驼国.md",
-    "Pasted image 20240114183835.png",
-    "彩塑/盔甲/明.md",
-    "彩塑/盔甲/汉.md",
+    "彩塑/西游记/玄奘.md",
+    "彩塑/三国/泥人张.md",
+    "彩塑/三国/关羽.md",
+    "images/20201003_170140410_iOS.jpg",
+    "images/20201023_083451160_iOS.jpg",
+    "images/20201025_153618989_iOS.jpg",
+    "images/20201025_153630501_iOS.jpg",
+    "images/20201025_154228199_iOS.jpg",
+    "images/20201025_154314690_iOS.jpg",
+    "images/20201025_160207980_iOS.jpg",
+    "images/20201025_160212758_iOS.jpg",
+    "images/20201025_160216297_iOS.jpg",
+    "images/20201025_160333260_iOS.jpg",
+    "彩塑/发式/现代.md",
+    "彩塑/发式",
+    "彩塑/盔甲/金.md",
     "彩塑/盔甲/宋.md",
-    "彩塑/盔甲/唐.md",
+    "彩塑/西游记/狮驼国.md",
+    "彩塑/盔甲/中式现代.md",
+    "彩塑/盔甲/明.md",
     "彩塑/盔甲/细节.md",
-    "Pasted image 20240114183740.png",
-    "Pasted image 20240114183713.png",
-    "Pasted image 20240114183706.png",
-    "Pasted image 20240114183648.png",
-    "images/枯 - Withered.md",
-    "Pasted image 20240114183514.png",
-    "Pasted image 20240114183507.png",
-    "Pasted image 20240114183457.png",
-    "Pasted image 20240114183449.png",
-    "Pasted image 20240114183435.png",
-    "彩塑/龙.md",
     "彩塑/八仙/鳌鱼 眼睛.md",
+    "彩塑/盔甲/汉.md",
+    "彩塑/盔甲/唐.md",
+    "images/枯 - Withered.md",
+    "彩塑/龙.md",
     "conflict-files-obsidian-git.md",
     "彩塑/盔甲",
     "佛教造像/释迦摩尼.md",
@@ -221,11 +214,6 @@
     "彩塑/兔爷/老北京.md",
     "彩塑/日本/地藏菩萨 - jizo.md",
     "彩塑/日本/空海.md",
-    "彩塑/八仙/逯彤 八仙过海.md",
-    "彩塑/卡通系列/米老鼠.md",
-    "彩塑/八仙/白描.md",
-    "彩塑/三国/夜读春秋.md",
-    "彩塑/万圣节/无脸男.md",
     "彩塑/万圣节",
     "彩塑/神话传说/Untitled",
     "彩塑/神话传说",
@@ -233,7 +221,6 @@
     "images/Untitled 1.canvas",
     "images/Untitled.canvas",
     "彩塑/兔爷",
-    "彩塑",
-    "雕塑/Untitled"
+    "彩塑"
   ]
 }
