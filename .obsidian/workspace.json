@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d738ea7a25d4b720",
+        "id": "064faedeeafa9f94",
         "type": "tabs",
         "children": [
           {
-            "id": "6d7a2bc9a55b982c",
+            "id": "efacc1aaedeb5fd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "彩塑/动漫/龙猫.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/动漫/龙猫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/动漫/龙猫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "彩塑/动漫/龙猫.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7a2bc9a55b982c",
+  "active": "efacc1aaedeb5fd3",
   "lastOpenFiles": [
+    "2024-01-14.md",
+    "Untitled.canvas",
+    "彩塑/动漫/龙猫.md",
     "1fcU.gif",
     "20210918_212007924_iOS 1.heic",
     "20210918_212007924_iOS.heic",
@@ -190,7 +185,6 @@
     "Jan-Willem-Totoro-Ramen_788x.jpg",
     "totoru_statue.jpg",
     "彩塑/万圣节/Luigi's Mension.md",
-    "彩塑/动漫/龙猫.md",
     "3449749-luigis-mansion-3ds-review-thumb-no-logo.jpg",
     "luigi's-mansion-hd-wallpapers-33320-4971607.jpg",
     "luigis-mansion-3-release-date-trailer-news.jpg",
@@ -201,7 +195,6 @@
     "彩塑/三国/关羽.md",
     "images/20201003_170140410_iOS.jpg",
     "images/20201023_083451160_iOS.jpg",
-    "images/20201025_153618989_iOS.jpg",
     "彩塑/发式/现代.md",
     "彩塑/盔甲/金.md",
     "彩塑/盔甲/宋.md",
