@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服饰/中式古典苏绣矢量图案.md",
+                "file": "服饰/中国戏曲服装图案.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服饰/中式古典苏绣矢量图案.md",
+                "file": "服饰/中国戏曲服装图案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服饰/中式古典苏绣矢量图案.md",
+                "file": "服饰/中国戏曲服装图案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服饰/中式古典苏绣矢量图案.md"
+                "file": "服饰/中国戏曲服装图案.md"
               }
             }
           },
@@ -189,17 +189,18 @@
   },
   "active": "c1083d6397eb85bb",
   "lastOpenFiles": [
-    "59蜡嘴牡丹.png",
-    "58鹰枫叶.png",
-    "57松鹰.png",
-    "56鹦鹉碧桃.png",
-    "55鹦鹉梅花.png",
-    "54鸳鸯荷花.png",
-    "53鸳鸯芙蓉.png",
-    "52鸳鸯荷花.png",
-    "51鸳鸯紫藤.png",
-    "50鸳鸯牡丹.png",
-    "49鸳鸯月季.png",
+    "images/1 (1).jpg",
+    "images/1 (2).jpg",
+    "服饰/中国戏曲服装图案.md",
+    "images/1 (61).jpg",
+    "images/1 (60).jpg",
+    "images/1 (59).jpg",
+    "images/1 (58).jpg",
+    "images/1 (57).jpg",
+    "images/1 (56).jpg",
+    "images/1 (55).jpg",
+    "images/1 (54).jpg",
+    "images/1 (53).jpg",
     "服饰/中式古典苏绣矢量图案.md",
     "发式/手绘古代女子发髻发型头饰发式大全.md",
     "Untitled.canvas",
@@ -235,7 +236,6 @@
     "彩塑/西游记/玄奘.md",
     "彩塑/三国/泥人张.md",
     "彩塑/三国/关羽.md",
-    "彩塑/盔甲/金.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
