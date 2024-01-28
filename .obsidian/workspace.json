@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1083d6397eb85bb",
+  "active": "b70b7c95cedf26a7",
   "lastOpenFiles": [
     "设计/服饰/中国戏曲服装图案.md",
     "设计/服饰/中式古典苏绣矢量图案.md",
