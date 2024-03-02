@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "彩塑/盔甲/宋.md",
+                "file": "彩塑/龙/龙.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/盔甲/宋.md",
+                "file": "彩塑/龙/龙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/盔甲/宋.md",
+                "file": "彩塑/龙/龙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/盔甲/宋.md"
+                "file": "彩塑/龙/龙.md"
               }
             }
           },
@@ -176,6 +176,11 @@
   },
   "active": "670b8460e4c2c442",
   "lastOpenFiles": [
+    "泥人张/油画参考.md",
+    "彩塑/龙/龙.md",
+    "mmexport1708495076142.jpg",
+    "彩塑/盔甲/宋.md",
+    "彩塑/龙",
     "Pasted image 20240114173032.png",
     "彩塑/盔甲/唐.md",
     "Pasted image 20240114111543.png",
@@ -187,9 +192,6 @@
     "Pasted image 20240114111336.png",
     "彩塑/盔甲/汉.md",
     "Pasted image 20240114111238.png",
-    "Pasted image 20240114111218.png",
-    "彩塑/盔甲/宋.md",
-    "Pasted image 20240114111035.png",
     "彩塑/盔甲/明.md",
     "彩塑/盔甲",
     "彩塑/西游记/狮驼国.md",
@@ -221,8 +223,6 @@
     "images/Untitled 1.canvas",
     "images/Untitled.canvas",
     "彩塑/兔爷",
-    "面塑/陈明远作品集.md",
-    "彩塑",
-    "雕塑/Untitled"
+    "彩塑"
   ]
 }
