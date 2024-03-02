@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计/服饰/中式古典苏绣矢量图案.md",
+                "file": "彩塑/西游记/狮驼国.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "bcc8e90845e02e5c",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计/服饰/中式古典苏绣矢量图案.md",
+                "file": "彩塑/西游记/狮驼国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计/服饰/中式古典苏绣矢量图案.md",
+                "file": "彩塑/西游记/狮驼国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计/服饰/中式古典苏绣矢量图案.md"
+                "file": "彩塑/西游记/狮驼国.md"
               }
             }
           },
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +187,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70b7c95cedf26a7",
+  "active": "c1083d6397eb85bb",
   "lastOpenFiles": [
-    "设计/服饰/中国戏曲服装图案.md",
+    "Pasted image 20240301181535.png",
+    "彩塑/西游记/师徒四人.md",
+    "设计/盔甲/宋.md",
+    "设计/盔甲/唐.md",
+    "设计/盔甲/中式现代.md",
+    "彩塑/西游记/狮驼国.md",
+    "彩塑/西游记/齐天大圣.md",
+    "彩塑/西游记/唐僧.md",
     "设计/服饰/中式古典苏绣矢量图案.md",
+    "设计/服饰/中国戏曲服装图案.md",
     "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
     "设计/发式/宋.md",
     "设计/发式/古典.md",
@@ -213,8 +221,6 @@
     "彩塑/发式/Untitled",
     "设计/参考.md",
     "设计/人体比例.md",
-    "设计/盔甲/唐.md",
-    "设计/盔甲/宋.md",
     "佛教造像/沙弥小和尚.md",
     "彩塑/万圣节/Luigi's Mension.md",
     "佛教造像/释迦摩尼.md",
@@ -222,9 +228,6 @@
     "面塑/陈明远作品集.md",
     "雕塑/古典雕塑赏析.md",
     "泥人张/张明山.md",
-    "泥人张/油画参考.md",
-    "images/2024-01-14.md",
-    "彩塑/动漫/龙猫.md",
     "20210918_212007924_iOS 1.heic",
     "20210918_212007924_iOS.heic",
     "20210918_212014802_iOS 1.heic",
@@ -233,9 +236,6 @@
     "20210918_212021624_iOS.heic",
     "20210918_212027712_iOS 1.heic",
     "20210918_212027712_iOS.heic",
-    "彩塑/西游记/玄奘.md",
-    "彩塑/三国/泥人张.md",
-    "彩塑/三国/关羽.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
