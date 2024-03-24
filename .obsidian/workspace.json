@@ -11,11 +11,9 @@
             "id": "670b8460e4c2c442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "彩塑/龙/龙.md",
-                "mode": "source",
-                "source": false
+                "file": "images/1 (5).jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/龙/龙.md",
+                "file": "images/1 (5).jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/龙/龙.md",
+                "file": "images/1 (5).jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/龙/龙.md"
+                "file": "images/1 (5).jpg"
               }
             }
           },
@@ -162,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,15 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "670b8460e4c2c442",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
-    "泥人张/油画参考.md",
+    "2024-03-23.md",
+    "Untitled.canvas",
     "彩塑/龙/龙.md",
-    "mmexport1708495076142.jpg",
-    "彩塑/盔甲/宋.md",
-    "彩塑/龙",
-    "Pasted image 20240114173032.png",
-    "彩塑/盔甲/唐.md",
     "Pasted image 20240114111543.png",
     "Pasted image 20240114111523.png",
     "Pasted image 20240114111509.png",
@@ -190,39 +184,43 @@
     "Pasted image 20240114111416.png",
     "Pasted image 20240114111348.png",
     "Pasted image 20240114111336.png",
-    "彩塑/盔甲/汉.md",
     "Pasted image 20240114111238.png",
-    "彩塑/盔甲/明.md",
-    "彩塑/盔甲",
-    "彩塑/西游记/狮驼国.md",
-    "彩塑/魔家四将/增长天王 魔礼青.md",
-    "彩塑/魔家四将",
-    "佛教造像/释迦摩尼.md",
-    "20230728_034540967_iOS.heic",
-    "雕塑/古典雕塑赏析.md",
-    "佛教造像/称谓.md",
-    "彩塑/八仙/鳌鱼 眼睛.md",
-    "彩塑/西游记/师徒四人.md",
-    "彩塑/万圣节/钟馗.md",
-    "彩塑/兔爷/老北京.md",
-    "彩塑/日本/地藏菩萨 - jizo.md",
-    "彩塑/日本/空海.md",
-    "彩塑/西游记/齐天大圣.md",
-    "彩塑/八仙/逯彤 八仙过海.md",
-    "彩塑/卡通系列/米老鼠.md",
-    "彩塑/八仙/白描.md",
-    "彩塑/三国/夜读春秋.md",
-    "彩塑/万圣节/无脸男.md",
-    "彩塑/万圣节/吸血鬼.md",
-    "彩塑/神话传说/财神.md",
-    "彩塑/万圣节",
-    "彩塑/神话传说/Untitled",
-    "彩塑/神话传说",
+    "Pasted image 20240114111218.png",
+    "Pasted image 20240114111035.png",
     "设计比例/人体比例.md",
-    "彩塑/日本/Untitled",
+    "设计比例",
+    "泥人张/油画参考.md",
+    "彩塑/盔甲/汉.md",
+    "彩塑/盔甲/明.md",
+    "彩塑/盔甲/宋.md",
+    "彩塑/盔甲/唐.md",
+    "彩塑/盔甲",
+    "彩塑/卡通系列/米老鼠.md",
+    "彩塑/卡通系列/招财猫.md",
+    "彩塑/卡通系列/功夫熊猫.md",
+    "彩塑/卡通系列",
+    "conflict-files-obsidian-git.md",
+    "设计/盔甲/汉.md",
+    "设计/盔甲/金.md",
+    "设计/盔甲/细节.md",
+    "设计/盔甲/明.md",
+    "设计/盔甲/宋.md",
+    "设计/盔甲/唐.md",
+    "设计/盔甲/中式现代.md",
+    "设计/服饰/中式古典苏绣矢量图案.md",
+    "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "设计/服饰/中国戏曲服装图案.md",
+    "设计/发式/现代.md",
+    "设计/发式/宋.md",
+    "设计/发式/唐.md",
+    "设计/盔甲",
+    "设计/服饰",
+    "设计/发式",
+    "设计",
+    "彩塑/动漫",
+    "20210918_212040272_iOS.heic",
+    "20210918_212040272_iOS 1.heic",
     "images/Untitled 1.canvas",
-    "images/Untitled.canvas",
-    "彩塑/兔爷",
-    "彩塑"
+    "images/Untitled.canvas"
   ]
 }
