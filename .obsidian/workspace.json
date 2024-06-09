@@ -11,9 +11,11 @@
             "id": "848463ba7bd302ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/20231228_195249731_iOS.webp"
+                "file": "彩塑/龙/龙.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/20231228_195249731_iOS.webp",
+                "file": "彩塑/龙/龙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/20231228_195249731_iOS.webp",
+                "file": "彩塑/龙/龙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/20231228_195249731_iOS.webp"
+                "file": "彩塑/龙/龙.md"
               }
             }
           },
@@ -175,17 +177,24 @@
   },
   "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
+    "images/20240218_192848338_iOS.jpg",
+    "彩塑/和风/招财猫.md",
+    "设计/Untitled.md",
+    "20240326_021428113_iOS.heic",
+    "20240326_021420108_iOS.heic",
+    "20240326_021419040_iOS.heic",
+    "20240326_021417162_iOS.heic",
+    "20240326_021416709_iOS.heic",
+    "20240326_021415273_iOS.heic",
+    "彩塑/龙/龙 1.md",
+    "彩塑/龙/龙.md",
+    "彩塑/中式古典苏绣矢量图案(c627).md",
+    "images/20231228_195249731_iOS.webp",
     "彩塑/和风/女生娃娃.md",
     "20240227_033042190_iOS.heic",
     "20240227_033039424_iOS.heic",
     "20240227_033035473_iOS.heic",
     "20240227_033024700_iOS.heic",
-    "20240227_033023038_iOS.heic",
-    "20240227_033021904_iOS.heic",
-    "20240227_033021143_iOS.heic",
-    "20240227_033019357_iOS.heic",
-    "20240227_033015559_iOS.heic",
-    "20240227_033014173_iOS.heic",
     "彩塑/西游记/金翅大鹏.md",
     "images/20231228_204111557_iOS.webp",
     "images/20231228_204107914_iOS.webp",
@@ -196,11 +205,8 @@
     "images/20231228_200500708_iOS.jpg",
     "images/20231228_200452225_iOS.jpg",
     "images/20231228_200439606_iOS.jpg",
-    "images/20231228_195357320_iOS.webp",
     "彩塑/西游记/狮驼国.md",
     "彩塑/西游记/师徒四人.md",
-    "彩塑/龙/龙.md",
-    "彩塑/龙/龙 1.md",
     "彩塑/西游记/玄奘.md",
     "彩塑/西游记/齐天大圣.md",
     "佛教造像/释迦摩尼.md",
@@ -210,7 +216,6 @@
     "设计/发式/唐.md",
     "设计/发式/古典.md",
     "彩塑/万圣节/Luigi's Mension.md",
-    "彩塑/中式古典苏绣矢量图案(c627).md",
     "2024-03-23.md",
     "Untitled.canvas",
     "设计/发式/现代.md",
@@ -219,8 +224,6 @@
     "泥人张/油画参考.md",
     "彩塑/盔甲/汉.md",
     "彩塑/盔甲/明.md",
-    "彩塑/盔甲/宋.md",
-    "彩塑/盔甲/唐.md",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
   ]
