@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "彩塑/龙/龙.md",
+                "file": "彩塑/西游记/金翅大鹏.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "彩塑/龙/龙.md",
+                "file": "彩塑/西游记/金翅大鹏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "彩塑/龙/龙.md",
+                "file": "彩塑/西游记/金翅大鹏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "彩塑/龙/龙.md"
+                "file": "彩塑/西游记/金翅大鹏.md"
               }
             }
           },
@@ -174,17 +174,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "848463ba7bd302ee",
+  "active": "b70b7c95cedf26a7",
   "lastOpenFiles": [
+    "20231228_204111557_iOS.webp",
+    "20231228_204107914_iOS.webp",
+    "20231228_204103006_iOS.webp",
+    "20231228_201351657_iOS.jpg",
+    "20231228_200641011_iOS.jpg",
+    "20231228_200556488_iOS.jpg",
+    "20231228_200500708_iOS.jpg",
+    "20231228_200452225_iOS.jpg",
+    "20231228_200439606_iOS.jpg",
+    "20231228_195357320_iOS.webp",
+    "20231228_195257290_iOS.jpg",
     "彩塑/西游记/狮驼国.md",
-    "Pasted image 20240323200227.png",
-    "Pasted image 20240323200200.png",
-    "Pasted image 20240323200141.png",
-    "Pasted image 20240323200026.png",
-    "Pasted image 20240323200004.png",
+    "彩塑/西游记/金翅大鹏.md",
+    "彩塑/西游记/师徒四人.md",
+    "彩塑/龙/龙.md",
+    "彩塑/龙/龙 1.md",
     "彩塑/西游记/玄奘.md",
     "彩塑/西游记/齐天大圣.md",
-    "彩塑/西游记/师徒四人.md",
     "佛教造像/释迦摩尼.md",
     "彩塑/日本/空海.md",
     "面塑/陈明远作品集.md",
@@ -193,17 +202,10 @@
     "设计/发式/古典.md",
     "彩塑/万圣节/Luigi's Mension.md",
     "彩塑/中式古典苏绣矢量图案(c627).md",
-    "彩塑/龙/龙 1.md",
-    "彩塑/龙/龙.md",
     "2024-03-23.md",
-    "images/Pasted image 20240301181535.png",
     "Untitled.canvas",
     "设计/发式/现代.md",
-    "images/mmexport1708495076142.jpg",
     "conflict-files-obsidian-git.md",
-    "images/1 (5).jpg",
-    "Pasted image 20240114111543.png",
-    "Pasted image 20240114111523.png",
     "设计比例/人体比例.md",
     "设计比例",
     "泥人张/油画参考.md",
@@ -213,7 +215,6 @@
     "彩塑/盔甲/唐.md",
     "彩塑/盔甲",
     "彩塑/卡通系列/米老鼠.md",
-    "彩塑/卡通系列/招财猫.md",
     "彩塑/卡通系列",
     "设计/盔甲",
     "设计/服饰",
