@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "81e59e2b5384ddda",
+        "id": "321427ac493abbc9",
         "type": "tabs",
         "children": [
           {
-            "id": "c1083d6397eb85bb",
+            "id": "a11e2143024dfadd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240323200004.png"
+                "file": "佛教造像/释迦摩尼.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240323200004.png",
+                "file": "佛教造像/释迦摩尼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240323200004.png",
+                "file": "佛教造像/释迦摩尼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240323200004.png"
+                "file": "佛教造像/释迦摩尼.md"
               }
             }
           },
@@ -185,10 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1083d6397eb85bb",
+  "active": "a11e2143024dfadd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "佛教造像/沙弥小和尚.md",
+    "website/main.md",
+    "website/shop.md",
+    "设计/发式/现代.md",
+    "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "设计/服饰/中式古典苏绣矢量图案.md",
+    "雕塑/古典雕塑赏析.md",
     "images/Pasted image 20240323200004.png",
+    "conflict-files-obsidian-git.md",
     "彩塑/西游记/金翅大鹏.md",
     "彩塑/和风/招财猫.md",
     "彩塑/和风/女生娃娃.md",
@@ -218,8 +227,6 @@
     "彩塑/西游记/师徒四人.md",
     "彩塑/西游记/唐僧.md",
     "彩塑/神话传说/财神.md",
-    "设计/发式/现代.md",
-    "设计/服饰/中式古典苏绣矢量图案.md",
     "设计/盔甲/中式现代.md",
     "设计/盔甲/唐.md",
     "设计/盔甲/汉.md",
@@ -228,10 +235,6 @@
     "彩塑/中式古典苏绣矢量图案(c627).md",
     "彩塑/龙/龙 1.md",
     "彩塑/龙/龙.md",
-    "彩塑/西游记/齐天大圣.md",
-    "彩塑/魔家四将/增长天王 魔礼青.md",
-    "佛教造像/释迦摩尼.md",
-    "佛教造像/沙弥小和尚.md",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
