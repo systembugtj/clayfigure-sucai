@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "彩塑/中式古典苏绣矢量图案(c627).md",
+                "file": "素材/中式古典苏绣矢量图案(c627).md",
                 "mode": "source",
                 "source": false
               }
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a11e2143024dfadd",
+  "active": "a1b6bb2c7c8dfbe5",
   "lastOpenFiles": [
     "佛教造像/沙弥小和尚.md",
     "website/main.md",
@@ -198,10 +199,10 @@
     "雕塑/古典雕塑赏析.md",
     "images/Pasted image 20240323200004.png",
     "conflict-files-obsidian-git.md",
-    "彩塑/西游记/金翅大鹏.md",
-    "彩塑/和风/招财猫.md",
-    "彩塑/和风/女生娃娃.md",
-    "彩塑/和风",
+    "素材/西游记/金翅大鹏.md",
+    "素材/和风/招财猫.md",
+    "素材/和风/女生娃娃.md",
+    "素材/和风",
     "images/20240218_192848338_iOS.jpg",
     "images/20231228_204111557_iOS.webp",
     "images/20231228_204107914_iOS.webp",
@@ -220,21 +221,21 @@
     "20240227_033042190_iOS.heic",
     "20240227_033039424_iOS.heic",
     "20240227_033035473_iOS.heic",
-    "彩塑/西游记/狮驼国.md",
+    "素材/西游记/狮驼国.md",
     "设计/盔甲/宋.md",
     "设计/盔甲/明.md",
     "设计/发式/唐.md",
     "彩塑/西游记/师徒四人.md",
-    "彩塑/西游记/唐僧.md",
-    "彩塑/神话传说/财神.md",
+    "素材/西游记/唐僧.md",
+    "素材/神话传说/财神.md",
     "设计/盔甲/中式现代.md",
     "设计/盔甲/唐.md",
     "设计/盔甲/汉.md",
     "设计/盔甲/金.md",
     "设计/盔甲/细节.md",
-    "彩塑/中式古典苏绣矢量图案(c627).md",
-    "彩塑/龙/龙 1.md",
-    "彩塑/龙/龙.md",
+    "素材/中式古典苏绣矢量图案(c627).md",
+    "素材/龙/龙 1.md",
+    "素材/龙/龙.md",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
