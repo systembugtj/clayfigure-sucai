@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "素材/日本/妖怪.md",
+                "file": "素材/西游记/斗神传.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "素材/日本/妖怪.md",
+                "file": "素材/西游记/斗神传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "素材/日本/妖怪.md",
+                "file": "素材/西游记/斗神传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "素材/日本/妖怪.md"
+                "file": "素材/西游记/斗神传.md"
               }
             }
           },
@@ -188,21 +188,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70b7c95cedf26a7",
+  "active": "a11e2143024dfadd",
   "lastOpenFiles": [
-    "240.jpg",
-    "239.jpg",
-    "238.jpg",
-    "237.jpg",
-    "236.jpg",
-    "235.jpg",
-    "234.jpg",
-    "233.jpg",
-    "232.jpg",
-    "231.jpg",
-    "230.jpg",
-    "佛教造像/释迦摩尼.md",
+    "286_287.jpg",
+    "285.jpg",
+    "284.jpg",
+    "283.jpg",
+    "282.jpg",
+    "281.jpg",
+    "280.jpg",
+    "279.jpg",
+    "278.jpg",
+    "276_277.jpg",
+    "275.jpg",
     "素材/日本/妖怪.md",
+    "素材/西游记/斗神传.md",
+    "佛教造像/释迦摩尼.md",
     "佛教造像/沙弥小和尚.md",
     "website/main.md",
     "website/shop.md",
@@ -235,7 +236,6 @@
     "设计/盔甲/唐.md",
     "设计/盔甲/汉.md",
     "设计/盔甲/金.md",
-    "设计/盔甲/细节.md",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
