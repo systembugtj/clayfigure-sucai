@@ -11,9 +11,11 @@
             "id": "848463ba7bd302ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/000cover_02.jpg"
+                "file": "素材/万圣节/2024_伏地魔.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/000cover_02.jpg",
+                "file": "素材/万圣节/2024_伏地魔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/000cover_02.jpg",
+                "file": "素材/万圣节/2024_伏地魔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/000cover_02.jpg"
+                "file": "素材/万圣节/2024_伏地魔.md"
               }
             }
           },
@@ -175,6 +177,18 @@
   },
   "active": "848463ba7bd302ee",
   "lastOpenFiles": [
+    "素材/万圣节/2023_吸血鬼.md",
+    "素材/万圣节/2018_Luigi's Mension.md",
+    "素材/万圣节/钟馗.md",
+    "素材/万圣节/电锯人 PRIME.md",
+    "素材/万圣节/电锯人 ESTREAM.md",
+    "素材/万圣节/2024_伏地魔.md",
+    "素材/万圣节/2023_无脸男.md",
+    "素材/万圣节/Untitled",
+    "素材/万圣节/2019_Boo",
+    "素材/万圣节/2021_Zombie",
+    "素材/万圣节/2022_Frankanstan",
+    "images/000cover_02.jpg",
     "images/000.jpg",
     "素材/龙/龙.md",
     "素材/龙/龙 1.md",
@@ -183,7 +197,6 @@
     "素材/西游记/玄奘.md",
     "素材/三国/关羽.md",
     "素材/西游记/齐天大圣.md",
-    "素材/万圣节/电锯人 ESTREAM.md",
     "素材/西游记/金翅大鹏.md",
     "素材/西游记/狮驼国.md",
     "素材/西游记/斗神传.md",
@@ -197,21 +210,12 @@
     "素材/和风/女生娃娃.md",
     "素材/动漫/龙猫.md",
     "素材/动漫/招财猫.md",
-    "素材/动漫/功夫熊猫.md",
-    "素材/八仙/鳌鱼 眼睛.md",
-    "素材/八仙/逯彤 八仙过海.md",
-    "素材/八仙/白描.md",
-    "素材/兔爷/老北京.md",
     "素材/龙",
     "素材/西游记",
     "素材/魔家四将",
     "素材/神话传说",
     "素材/日本",
     "素材/和风",
-    "素材/动漫",
-    "素材/八仙",
-    "素材/兔爷",
-    "素材/三国",
     "images/c592ade626ac6f1cfc041a6b31bb6b60.jpg",
     "images/Pasted image 20240831123230.png",
     "images/Pasted image 20240831123207.png",
@@ -219,8 +223,6 @@
     "images/Pasted image 20240831123110.png",
     "images/Pasted image 20240831123050.png",
     "images/Pasted image 20240831123009.png",
-    "images/Pasted image 20240831122938.png",
-    "images/Pasted image 20240831122921.png",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
