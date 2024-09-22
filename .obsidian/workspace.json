@@ -11,11 +11,9 @@
             "id": "848463ba7bd302ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "素材/龙/龙.md",
-                "mode": "source",
-                "source": false
+                "file": "images/000cover_02.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "素材/龙/龙.md",
+                "file": "images/000cover_02.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "素材/龙/龙.md",
+                "file": "images/000cover_02.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "素材/龙/龙.md"
+                "file": "images/000cover_02.jpg"
               }
             }
           },
@@ -177,8 +175,9 @@
   },
   "active": "848463ba7bd302ee",
   "lastOpenFiles": [
-    "素材/龙/龙 1.md",
+    "images/000.jpg",
     "素材/龙/龙.md",
+    "素材/龙/龙 1.md",
     "素材/动漫/米老鼠.md",
     "images/005 1.jpg",
     "素材/西游记/玄奘.md",
