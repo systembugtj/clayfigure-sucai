@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3f80a7b32669f6",
+        "id": "106151ed29a6d0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "848463ba7bd302ee",
+            "id": "243d9db444802ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "素材/万圣节/2024_伏地魔.md",
+                "file": "版权/USA.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "USA"
             }
           }
         ]
@@ -33,13 +35,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "efacc1aaedeb5fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "素材/中式古典苏绣矢量图案(c627).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中式古典苏绣矢量图案(c627)"
+            }
+          },
+          {
             "id": "a1b6bb2c7c8dfbe5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,14 +93,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "bcc8e90845e02e5c",
@@ -93,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "素材/万圣节/2024_伏地魔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -110,10 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "素材/万圣节/2024_伏地魔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -124,7 +152,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,9 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "素材/万圣节/2024_伏地魔.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -146,7 +176,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -154,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -162,67 +196,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "848463ba7bd302ee",
+  "active": "243d9db444802ea8",
   "lastOpenFiles": [
+    "设计/乐器/月琴.md",
+    "设计/发式/宋.md",
+    "设计/发式/唐.md",
+    "设计/盔甲/中式现代.md",
+    "设计/人体比例.md",
+    "面塑/陈明远作品集.md",
+    "images/20240227_033009592_iOS.jpeg",
+    "素材/和风/女生娃娃.md",
+    "素材/和风/招财猫.md",
+    "素材/动漫/米老鼠.md",
+    "素材/动漫/招财猫.md",
+    "素材/动漫/功夫熊猫.md",
+    "素材/西游记/玄奘.md",
+    "素材/魔家四将/增长天王 魔礼青.md",
+    "素材/西游记/Q版.md",
+    "素材/西游记/唐僧.md",
+    "attachement/Pasted image 20250329233220.png",
+    "attachement/Pasted image 20250329212205.png",
+    "attachement/Pasted image 20250329212141.png",
+    "attachement/Pasted image 20250329212129.png",
+    "attachement/Pasted image 20250329212115.png",
+    "设计/发式/古典.md",
+    "设计/乐器/大阮.md",
+    "attachement/Pasted image 20250329200054.png",
+    "attachement/Pasted image 20250329200007.png",
+    "attachement/Pasted image 20250329195954.png",
+    "attachement/Pasted image 20250329195525.png",
+    "attachement",
+    "版权/USA.md",
+    "设计/乐器",
+    "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "版权",
+    "素材/中式古典苏绣矢量图案(c627).md",
+    "素材/万圣节/2024_伏地魔.md",
+    "素材/万圣节/2023_无脸男.md",
     "素材/万圣节/2023_吸血鬼.md",
     "素材/万圣节/2018_Luigi's Mension.md",
     "素材/万圣节/钟馗.md",
-    "素材/万圣节/电锯人 PRIME.md",
-    "素材/万圣节/电锯人 ESTREAM.md",
-    "素材/万圣节/2024_伏地魔.md",
-    "素材/万圣节/2023_无脸男.md",
-    "素材/万圣节/Untitled",
-    "素材/万圣节/2019_Boo",
-    "素材/万圣节/2021_Zombie",
-    "素材/万圣节/2022_Frankanstan",
-    "images/000cover_02.jpg",
-    "images/000.jpg",
-    "素材/龙/龙.md",
-    "素材/龙/龙 1.md",
-    "素材/动漫/米老鼠.md",
-    "images/005 1.jpg",
-    "素材/西游记/玄奘.md",
-    "素材/三国/关羽.md",
-    "素材/西游记/齐天大圣.md",
-    "素材/西游记/金翅大鹏.md",
-    "素材/西游记/狮驼国.md",
-    "素材/西游记/斗神传.md",
-    "素材/西游记/唐僧.md",
-    "素材/魔家四将/增长天王 魔礼青.md",
-    "素材/神话传说/财神.md",
-    "素材/日本/地藏菩萨 - jizo.md",
-    "素材/日本/空海.md",
     "素材/日本/妖怪.md",
-    "素材/和风/招财猫.md",
-    "素材/和风/女生娃娃.md",
-    "素材/动漫/龙猫.md",
-    "素材/动漫/招财猫.md",
-    "素材/龙",
-    "素材/西游记",
-    "素材/魔家四将",
-    "素材/神话传说",
-    "素材/日本",
+    "素材/万圣节/电锯头",
     "素材/和风",
-    "images/c592ade626ac6f1cfc041a6b31bb6b60.jpg",
-    "images/Pasted image 20240831123230.png",
-    "images/Pasted image 20240831123207.png",
-    "images/Pasted image 20240831123141.png",
-    "images/Pasted image 20240831123110.png",
-    "images/Pasted image 20240831123050.png",
-    "images/Pasted image 20240831123009.png",
+    "20240326_021428113_iOS.heic",
+    "20240326_021420108_iOS.heic",
+    "20240326_021419040_iOS.heic",
+    "20240326_021417162_iOS.heic",
+    "20240326_021416709_iOS.heic",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
