@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "106151ed29a6d0f0",
+        "id": "2aacb077513a1a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "243d9db444802ea8",
+            "id": "753f5704be624008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "设计/服饰/边纹.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "边纹"
+              "title": "New tab"
             }
           }
         ]
@@ -84,8 +80,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -103,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "right": {
     "id": "bcc8e90845e02e5c",
@@ -196,21 +192,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "243d9db444802ea8",
+  "active": "753f5704be624008",
   "lastOpenFiles": [
+    "素材/万圣节/电锯人 PRIME.md",
+    "素材/万圣节/电锯人 ESTREAM.md",
+    "素材/万圣节/2024_伏地魔.md",
+    "素材/万圣节/2023_无脸男.md",
+    "素材/万圣节/2023_吸血鬼.md",
+    "素材/万圣节/2018_Luigi's Mension.md",
+    "佛教造像/沙弥小和尚.md",
+    "面塑/陈明远作品集.md",
+    "images/!cover.jpg",
+    "素材/西游记/Q版.md",
+    "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
+    "设计/服饰/中式古典苏绣矢量图案.md",
+    "设计/乐器/月琴.md",
+    "设计/发式/宋.md",
+    "设计/发式/唐.md",
+    "设计/服饰/明代.md",
+    "设计/发式/古典.md",
+    "设计/服饰/中国戏曲服装图案.md",
+    "素材/三国/泥人张.md",
+    "素材/和风/招财猫.md",
+    "素材/和风/女生娃娃.md",
+    "设计/纹饰/梅兰竹菊.md",
+    "素材/魔家四将/增长天王 魔礼青.md",
+    "设计/服饰/边纹.md",
     "attachement/07-1.png",
     "attachement/06-1.png",
     "attachement/05-1.png",
@@ -220,34 +243,10 @@
     "attachement/14-1.png",
     "attachement/13-1.png",
     "attachement/12-1.png",
-    "attachement/11-1.png",
-    "attachement/10-1.png",
     "设计/纹饰/锦鲤.md",
-    "设计/服饰/边纹.md",
-    "设计/纹饰/梅兰竹菊.md",
-    "设计/服饰/明代.md",
     "设计/纹饰",
     "素材/日本/空海.md",
-    "设计/服饰/中国戏曲服装图案.md",
     "设计/盔甲/明.md",
-    "设计/盔甲/汉.md",
-    "设计/盔甲/细节.md",
-    "素材/龙/龙.md",
-    "素材/龙/龙 1.md",
-    "素材/中式古典苏绣矢量图案(c627).md",
-    "素材/魔家四将/增长天王 魔礼青.md",
-    "素材/日本/妖怪.md",
-    "佛教造像/释迦摩尼.md",
-    "素材/三国/夜读春秋.md",
-    "素材/三国/关羽.md",
-    "素材/兔爷/老北京.md",
-    "素材/和风/招财猫.md",
-    "素材/和风/女生娃娃.md",
-    "素材/日本/地藏菩萨 - jizo.md",
-    "素材/万圣节/2018_Luigi's Mension.md",
-    "佛教造像/称谓.md",
-    "佛教造像/沙弥小和尚.md",
-    "设计/发式/唐.md",
     "attachement",
     "设计/乐器",
     "版权",
