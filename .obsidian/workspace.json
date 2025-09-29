@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2aacb077513a1a6b",
+        "id": "c858ef2af2619974",
         "type": "tabs",
         "children": [
           {
-            "id": "753f5704be624008",
+            "id": "80e142f97485f0dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "素材/万圣节/2025_南瓜先生.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025_南瓜先生"
             }
           }
         ]
@@ -205,21 +209,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "753f5704be624008",
+  "active": "80e142f97485f0dd",
   "lastOpenFiles": [
-    "素材/万圣节/电锯人 PRIME.md",
+    "attachement/image-15.png",
+    "attachement/image-14.png",
+    "attachement/image-13.png",
+    "attachement/image-12.png",
+    "attachement/image-11.png",
+    "attachement/image-10.png",
+    "attachement/image-9.png",
+    "attachement/image-8.png",
+    "素材/万圣节/2018_Luigi's Mension.md",
+    "素材/万圣节/2025_南瓜先生.md",
+    "素材/西游记/Q版.md",
+    "素材/万圣节/2024_南瓜先生",
+    "佛教造像/释迦摩尼.md",
     "素材/万圣节/电锯人 ESTREAM.md",
     "素材/万圣节/2024_伏地魔.md",
-    "素材/万圣节/2023_无脸男.md",
+    "素材/万圣节/电锯人 PRIME.md",
+    "Freelacner.md",
+    "泥人张/张明山.md",
+    "版权/USA.md",
     "素材/万圣节/2023_吸血鬼.md",
-    "素材/万圣节/2018_Luigi's Mension.md",
+    "素材/万圣节/2023_无脸男.md",
     "佛教造像/沙弥小和尚.md",
     "面塑/陈明远作品集.md",
     "images/!cover.jpg",
-    "素材/西游记/Q版.md",
     "设计/发式/手绘古代女子发髻发型头饰发式大全.md",
     "设计/服饰/中式古典苏绣矢量图案.md",
     "设计/乐器/月琴.md",
@@ -231,22 +250,9 @@
     "素材/三国/泥人张.md",
     "素材/和风/招财猫.md",
     "素材/和风/女生娃娃.md",
-    "设计/纹饰/梅兰竹菊.md",
-    "素材/魔家四将/增长天王 魔礼青.md",
-    "设计/服饰/边纹.md",
     "attachement/07-1.png",
     "attachement/06-1.png",
-    "attachement/05-1.png",
-    "attachement/04-1.png",
-    "attachement/03-1.png",
-    "attachement/15-1.png",
-    "attachement/14-1.png",
-    "attachement/13-1.png",
-    "attachement/12-1.png",
-    "设计/纹饰/锦鲤.md",
     "设计/纹饰",
-    "素材/日本/空海.md",
-    "设计/盔甲/明.md",
     "attachement",
     "设计/乐器",
     "版权",
@@ -255,7 +261,6 @@
     "20240326_021428113_iOS.heic",
     "20240326_021420108_iOS.heic",
     "20240326_021419040_iOS.heic",
-    "20240326_021417162_iOS.heic",
     "Untitled.canvas",
     "images/Untitled 1.canvas",
     "images/Untitled.canvas"
